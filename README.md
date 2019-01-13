@@ -9,7 +9,7 @@ If there is a sufficient amount of the product in stock, it will display, "Insuf
 
 Screen Shot:
 
-![nodeoutput](https://user-images.githubusercontent.com/43328718/51081464-894e1c00-16b5-11e9-9821-7fd1274850a2.jpg)
+![nodeoutput](https://user-images.githubusercontent.com/43328718/51081722-ef3da200-16bb-11e9-9e30-95df9cb763ee.jpg)
 
 
 
