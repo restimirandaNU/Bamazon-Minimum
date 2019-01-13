@@ -9,7 +9,10 @@ If there is a sufficient amount of the product in stock, it will display, "Insuf
 
 Screen Shot:
 
+![bamazonorder](https://user-images.githubusercontent.com/43328718/51081754-cff34480-16bc-11e9-8496-ff1d3cc77eb8.PNG)
+
 ![nodeoutput](https://user-images.githubusercontent.com/43328718/51081722-ef3da200-16bb-11e9-9e30-95df9cb763ee.jpg)
+
 
 
 
