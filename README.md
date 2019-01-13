@@ -14,4 +14,5 @@ Screen Shot:
 
 
 Technologies used: Node.js, Inquire and MySQL packages. 
+
 Tools used: Visual Code Studio and MySQL WorkBench
