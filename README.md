@@ -6,7 +6,7 @@ If there is a sufficient amount of the product in stock, it will display, "Insuf
 
 Screen Shot:
 
-
+![nodeoutput](https://user-images.githubusercontent.com/43328718/51081464-894e1c00-16b5-11e9-9821-7fd1274850a2.jpg)
 
 
 
