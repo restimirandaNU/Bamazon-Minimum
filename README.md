@@ -8,10 +8,21 @@ How it works: It displays the products in the store. Customers are promted to wh
 If there is a sufficient amount of the product in stock, it will display, "Insufficient Quantity". .
 
 Screen Shot:
+View Product List
 
-![bamazonorder](https://user-images.githubusercontent.com/43328718/51081754-cff34480-16bc-11e9-8496-ff1d3cc77eb8.PNG)
+![bamazonview](https://user-images.githubusercontent.com/43328718/51175815-f06bfc00-1880-11e9-9328-5d044cfbeca2.PNG)
 
-![nodeoutput](https://user-images.githubusercontent.com/43328718/51081722-ef3da200-16bb-11e9-9e30-95df9cb763ee.jpg)
+List of Available Products
+
+![inventorylist](https://user-images.githubusercontent.com/43328718/51175823-f7930a00-1880-11e9-8e2c-bf3fa5f7e147.PNG)
+
+How Order Products
+
+![bamazonorder](https://user-images.githubusercontent.com/43328718/51175835-0083db80-1881-11e9-854e-0e8a49d4b227.PNG)
+
+View of Purchased Products
+
+![buyview](https://user-images.githubusercontent.com/43328718/51175862-11cce800-1881-11e9-9cd8-06dcf9949b1a.PNG)
 
 
 
