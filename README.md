@@ -16,7 +16,7 @@ List of Available Products
 
 ![inventorylist](https://user-images.githubusercontent.com/43328718/51175823-f7930a00-1880-11e9-8e2c-bf3fa5f7e147.PNG)
 
-How Order Products
+How To Order Products
 
 ![bamazonorder](https://user-images.githubusercontent.com/43328718/51175835-0083db80-1881-11e9-854e-0e8a49d4b227.PNG)
 
